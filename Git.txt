@@ -1,0 +1,17 @@
+### INSTRUCCIONES ###
+
+1. Descargar GIT: https://git-scm.com/
+2. Descargar la extensión de Git en VS Code.
+3. Abrir terminal.
+4. git config --global user.name "patricionog"
+5. git config --global user.email "patricioe.nogueroles@gmail.com"
+6. cd 'C:\Directorio-dónde-se-coloca-carpeta-con-repositorio'
+7. git clone https://github.com/patricionog/Modulio.git Módulos
+8. cd 'Módulos'
+9. git push -u origin main
+10. Iniciar sesión con código de verificación.
+11. cd 'C:\Directorio-dónde-se-coloca-carpeta-con-repositorio'
+12. git clone https://github.com/patricionog/Modulio.git Tesis
+13. cd 'Tesis'
+14. git push -u origin main
+15. Editar en 
