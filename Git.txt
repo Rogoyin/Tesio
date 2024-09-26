@@ -14,4 +14,4 @@
 12. git clone https://github.com/patricionog/Modulio.git Tesis
 13. cd 'Tesis'
 14. git push -u origin main
-15. Editar en 
+15. Editar en Paths -> Notebook_Nico
